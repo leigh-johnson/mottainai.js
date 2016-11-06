@@ -1,0 +1,16 @@
+{
+  "name": "mottainai.js",
+  "version": "0.0.0",
+  "description": "Light mottainai game engine and client built with Express & Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leigh Johnson <hi@leighjohnson.me>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "lodash": "^4.16.6",
+    "socket.io": "^1.5.1"
+  }
+}
